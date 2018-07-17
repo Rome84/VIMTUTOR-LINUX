@@ -23,7 +23,7 @@
      the   j   key enough times to move the cursor so that Lesson 1.1
      completely fills the screen.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	#			Lesson 1.1:  MOVING THE CURSOR
+#			Lesson 1.1:  MOVING THE CURSOR
 
 
    ** To move the cursor, press the h,j,k,l keys as indicated. **
